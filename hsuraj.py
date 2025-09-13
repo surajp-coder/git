@@ -12,6 +12,8 @@ print("how are you")
 # git add .     git add file name
 # git commit -m "commit message"
 # git push 
+# git push --set-upstream origin branch name
 # git commit -m "initial commt"
 #create a new branch
 #git  checkout -b "branch name"
+#git checkout "branch name which we want to open"
